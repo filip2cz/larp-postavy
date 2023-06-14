@@ -73,3 +73,8 @@ Jsou případy, kdy náhlý dar bohu s přáním způsobí splnění tohoto př�
 ale úspěšnost není tak velká jak by si mnozí přáli a je třeba udržovat přátelství s bohem, hlavně co se týče toho obětování jídla.
 Podle některých legend se nějaký bůh občas zjeví tak, že se oheň promění na něj, sní jídlo a zase zmizí,
 to jsou ale jen pověry a málo kdo má s tímto zkušenost, prý se jedná převážně o boha Åshwi.
+
+## Události po hře
+
+Po příchodu do města se naučil téměř plynule mluvit a dokonce i trochu číst.
+Podařilo se mu svými motlitbami a plněním přání bohů udobřit si bohy a vrátil se v klidu do své vesnice.
