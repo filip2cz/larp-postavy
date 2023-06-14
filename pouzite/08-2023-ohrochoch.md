@@ -44,7 +44,8 @@ lidských nebo dalších písem a přizpůsobením k trollí řeči, to už si a
 toto písmo umí ovládat jen opravdu chytří trollové (stále mnohem hloupější než většina lidí) a i proto se písmo kmen od kmene trochu liší.
 Nerozlišují se malé a velké znaky nebo věty.
 
-## Abeceda (s přepisem do české výslovnosti): 
+## Abeceda (s přepisem do české výslovnosti):
+
 Ø – O  
 ƴ – I / Y  
 Ф – F  
