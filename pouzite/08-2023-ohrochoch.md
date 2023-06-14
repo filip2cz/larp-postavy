@@ -45,21 +45,21 @@ toto písmo umí ovládat jen opravdu chytří trollové (stále mnohem hloupěj
 Nerozlišují se malé a velké znaky nebo věty.
 
 ## Abeceda (s přepisem do české výslovnosti): 
-Ø – O 
-ƴ – I / Y
-Ф – F 
-Ю – U
-К – K 
-Х – X / CH
-H – H 
-Я – R 
-@ – A 
-И – N
-Ж – Ž 
-Ш – C/S
-■ – E
-Ʇ – T 
-Б – B
+Ø – O  
+ƴ – I / Y  
+Ф – F  
+Ю – U  
+К – K  
+Х – X / CH  
+H – H  
+Я – R  
+@ – A  
+И – N  
+Ж – Ž  
+Ш – C/S  
+■ – E  
+Ʇ – T  
+Б – B  
 
 ## Trollí náboženství
 
