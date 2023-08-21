@@ -77,4 +77,4 @@ to jsou ale jen pověry a málo kdo má s tímto zkušenost, prý se jedná pře
 ## Události po hře
 
 Po příchodu do města se naučil téměř plynule mluvit a dokonce i trochu číst.
-Podařilo se mu svými motlitbami a plněním přání bohů udobřit si bohy a vrátil se v klidu do své vesnice.
+Podařilo se mu svými motlitbami a plněním přání bohů udobřit si bohy, hlavně boha Ashwiho, a vrátil se v klidu do své vesnice.
